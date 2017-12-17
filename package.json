@@ -21,7 +21,7 @@
     "cy:verify": "cypress verify",
     "cy:version": "cypress version",
     "cy:run": "cypress run",
-    "cy:open": "cypress open"
+    "cypress": "cypress open"
   },
   "repository": {
     "type": "git",
